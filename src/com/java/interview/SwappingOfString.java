@@ -3,7 +3,7 @@ package com.java.interview;
 public class SwappingOfString {
 
 	private static void subMethod1() {
-		System.out.println("swapping of string with without third variable");
+		System.out.println("swapping of string  without third variable");
 		String s1 = "java";
 		String s2 = "program";
 		System.out.println("before swapping");

@@ -8,7 +8,7 @@ public class ArrayQuestion {
 
 	private static void subMethod() {
 		System.out.println("find the third largest in an array");
-		int a[] = {1,2,5,6,3,8};
+		int a[] = {1,2,5,6,7,8};
 		Arrays.sort(a);
 		System.out.println(a[2]);
 	}
